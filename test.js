@@ -1,1 +1,1 @@
-alert("BLAAT");
+alert("TEST");
